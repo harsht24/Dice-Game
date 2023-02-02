@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice-Game using basic Javascript, HTML & CSS
 
 Snapshots
 
